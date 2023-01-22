@@ -12,6 +12,8 @@
 <p align="center">
 <img alt="projeto habits" src="./assets/preview.jpg" width="100%"> </p>
 
+<p>Acesso ao app online: https://ayratan.github.io/nlwSetup</p>
+
 <h2>Funcionalidades</h2>
 
 <p>O projeto possui o objetivo de permitir o registro de atividades realizadas durante o presente dia(clicando com o mouse no botão "Registrar o meu dia", ele também permite ao usuário selecionar as atividades realizadas dentre as opções já existentes, marcando-as como realizadas ou não.</p>
